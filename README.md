@@ -29,9 +29,5 @@ Welcome to my GitHub profile! I'm a senior at Cox Mill High School, deeply passi
 - 🤲 **Empowerment**: I strive to empower those around me with the tools and knowledge to succeed.
 - 📊 **Exceeding Expectations**: My goal is always to go beyond what is asked and deliver exceptional results.
 
-### Let's Connect
 
-- 📧 Email me at [patelrudra860@gmail.com](mailto:patelrudra860@gmail.com)
-
-Thank you for stopping by, and I hope my work inspires you as much as I'm inspired by the world of tech!
 
