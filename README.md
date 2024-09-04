@@ -1,5 +1,5 @@
 #  Hello:
-Here’s a personalized version for you, Rudra Patel:<br><br>🔨 I’m currently building a multipurpose Discord bot, Rudescore  <br>🤝 I’m looking to collaborate with developers and designers on innovative projects  <br>🚀 I’m seeking help with advanced AI and automation features for my bot  <br>📚 I’m currently learning TypeScript and expanding my knowledge of web development  <br>💻 Ask me about coding, dropshipping, or my passion for gaming  <br>🎮 Fun fact: I’ve been a part of gaming clans and enjoy creating bots for competitive communities
+<br>🔨 I’m currently building a multipurpose Discord bot, Rudescore  <br>🤝 I’m looking to collaborate with developers and designers on innovative projects  <br>🚀 I’m seeking help with advanced AI and automation features for my bot  <br>📚 I’m currently learning TypeScript and expanding my knowledge of web development  <br>💻 Ask me about coding, dropshipping, or my passion for gaming  <br>🎮 Fun fact: I’ve been a part of gaming clans and enjoy creating bots for competitive communities
 
 
 # 💻 Tech Stack:
